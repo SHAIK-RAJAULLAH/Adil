@@ -1,0 +1,6 @@
+{
+  "name": "English Fluency Coach",
+  "description": "An interactive, voice-enabled English conversation partner that corrects your mistakes, suggests fluent phrasing, and tracks session progress.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
